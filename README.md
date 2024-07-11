@@ -1,1 +1,1 @@
-### Hi there 👋
+  Sou estudante do Curso Técnico em Desenvolvimento de Sistemas no SENAC, e estou começando a explorar o mundo da programação. Já dei meus primeiros passos em linguagens como Java, Node.js e React, e até me aventurei pelo mundo do MySQL, que achei super interessante! Estou em busca de oportunidades para ganhar experiência, aprender mais e construir uma carreira na área de tecnologia. Se você tem projetos legais ou estágios disponíveis, estou pronto para encarar o desafio e me desenvolver profissionalmente!
